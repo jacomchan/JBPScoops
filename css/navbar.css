@@ -1,0 +1,16 @@
+.website-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.website-header-navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.website-header-navbar a:hover{
+    text-decoration: underline;
+}

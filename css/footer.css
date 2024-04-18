@@ -1,0 +1,38 @@
+.website-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    padding: 85px;
+    background-color: #272727;
+}
+
+.website-footer-info1 h2 {
+    color: white;
+}
+
+.website-footer-info1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.website-footer-info1 a:hover {
+    text-decoration: underline;
+}
+
+.website-footer-info2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.website-footer-info2 h3 {
+    color: white;
+}
+
+.website-footer-info2 a:hover {
+    text-decoration: underline;
+}
+
+.website-footer-info2 {
+    display: grid;
+}
